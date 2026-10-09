@@ -1,5 +1,7 @@
 Gaming Player A/B Test Analysis
 
+![Dashboard Preview](AB%20test%20Dashboard.png)
+
 Business Problem
 Mobile game company ran A/B test on promotional offer sets. Test group (B) received one offer variant, control group (A) received another. 
 Objective: Identify which offer set maximizes revenue per player.
@@ -25,4 +27,4 @@ Power BI
 What I'd Do With More Data
 User engagement metrics (session length, daily active rate, feature adoption) would show if version affects engagement differently than spending. Retention curves would reveal long-term player value beyond first revenue. Cohort analysis by signup date would show if test effect varies over time.
 
-![Dashboard Preview](AB%20test%20Dashboard.png)
+
