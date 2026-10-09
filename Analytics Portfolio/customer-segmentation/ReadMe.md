@@ -1,5 +1,9 @@
 Customer Churn Segmentation
 
+
+![Dashboard Preview](Dash0.png)
+
+
 Business Problem
 An online retailer wanted to identify which customer segments were at highest churn risk and determine the most cost-effective lever to improve retention.
 
@@ -32,4 +36,3 @@ Campaign history:
 Could test which re-engagement mechanics actually work and measure lift
 Churn labels: 
 Could validate that low frequency actually predicts churn
-![Dashboard Preview](Dash0.png)
