@@ -1,8 +1,6 @@
-Customer Churn Segmentation
-
+### Customer Churn Segmentation ###
 
 ![Dashboard Preview](Dash0.png)
-
 
 Business Problem
 An online retailer wanted to identify which customer segments were at highest churn risk and determine the most cost-effective lever to improve retention.
