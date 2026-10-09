@@ -32,3 +32,4 @@ Campaign history:
 Could test which re-engagement mechanics actually work and measure lift
 Churn labels: 
 Could validate that low frequency actually predicts churn
+![Dashboard Preview](Dash0.png)
