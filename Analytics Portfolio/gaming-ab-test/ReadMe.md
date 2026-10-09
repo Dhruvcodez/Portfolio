@@ -1,4 +1,4 @@
-Gaming Player A/B Test Analysis
+### Gaming Player A/B Test Analysis ###
 
 ![Dashboard Preview](AB%20test%20Dashboard.png)
 
