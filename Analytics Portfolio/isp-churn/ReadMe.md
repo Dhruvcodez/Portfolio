@@ -23,3 +23,5 @@ Power BI
 
 What I'd Do With More Data
 Demographic/geographic data would reveal if churn patterns differ by customer type or region. Contract terms and pricing history would show if price sensitivity drives calls. Ticket resolution times would validate the "unresolved problems" hypothesis
+
+![Dashboard Preview](ISP%20Churn%20Dashboard.png)
