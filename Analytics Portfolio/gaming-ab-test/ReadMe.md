@@ -24,3 +24,5 @@ Power BI
 
 What I'd Do With More Data
 User engagement metrics (session length, daily active rate, feature adoption) would show if version affects engagement differently than spending. Retention curves would reveal long-term player value beyond first revenue. Cohort analysis by signup date would show if test effect varies over time.
+
+![Dashboard Preview](AB test Dashboard.png)
