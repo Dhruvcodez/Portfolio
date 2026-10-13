@@ -4,7 +4,8 @@
 
 ## System Preview
 
-https://github.com/user-attachments/assets/c0006d7b-e12d-44d5-a5a1-03c79a37af70
+<img width="800" height="450" alt="Dashboard Preview" src="https://github.com/user-attachments/assets/ab370dad-e9eb-4ec9-baed-7c6631c0c871" />
+
 
 ![F1 Pit-Wall Overview](f1-pitwall-full-overview.png)
 
