@@ -4,7 +4,7 @@ Welcome to my portfolio. This repository highlights AI-orchestrated systems engi
 
 ---
 
-## Flagship Project
+## Systems Engineering & AI-Orchestrated
 
 ### [AI-Orchestrated F1 Telemetry Dashboard](./F1-Pit-Wall-Dashboard)
 
