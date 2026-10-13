@@ -2,6 +2,12 @@
 
 > *Note: To protect proprietary portfolio code from direct duplication, the raw source code for this live data pipeline is kept private. A full technical walkthrough, architecture review, and code breakdown are available upon request.*
 
+## System Preview
+
+https://github.com/Dhruvcodez/Portfolio/blob/main/F1-Pit-Wall-Dashboard/Pitwall%20Preview.mp4
+
+![F1 Pit-Wall Overview](f1-pitwall-full-overview.png)
+
 ## The "AI Orchestrator" Approach
 I am not a traditional software developer; I operate as an AI Generalist and Systems Orchestrator. This real-time, full-stack data visualization pipeline was built without manually writing the underlying syntax or solving complex mathematical equations. 
 
