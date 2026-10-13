@@ -4,7 +4,7 @@
 
 ## System Preview
 
-https://github.com/Dhruvcodez/Portfolio/blob/main/F1-Pit-Wall-Dashboard/Pitwall%20Preview.mp4
+https://github.com/user-attachments/assets/c0006d7b-e12d-44d5-a5a1-03c79a37af70
 
 ![F1 Pit-Wall Overview](f1-pitwall-full-overview.png)
 
