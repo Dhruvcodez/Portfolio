@@ -7,8 +7,6 @@
 <img width="800" height="450" alt="Dashboard Preview" src="https://github.com/user-attachments/assets/ab370dad-e9eb-4ec9-baed-7c6631c0c871" />
 
 
-![F1 Pit-Wall Overview](f1-pitwall-full-overview.png)
-
 ## The "AI Orchestrator" Approach
 I am not a traditional software developer; I operate as an AI Generalist and Systems Orchestrator. This real-time, full-stack data visualization pipeline was built without manually writing the underlying syntax or solving complex mathematical equations. 
 
@@ -21,6 +19,8 @@ The goal was to mirror a professional Formula 1 pit-wall telemetry feed with zer
 2. **The Processing Layer (Python Backend):** A multithreaded Python server intercepts the binary stream, parses packet headers, and normalizes complex nested data structures (such as mapping custom C-type objects and handling legacy F2 compound IDs).
 3. **The Transport Layer (Server-Sent Events):** Uses a lightweight HTTP SSE stream (`/stream`) rather than heavy bi-directional WebSockets, perfectly optimized for continuous, unidirectional server-to-client telemetry broadcasts.
 4. **The Presentation Layer (Vanilla Frontend):** A high-performance web dashboard built with HTML5 Canvas and CSS Grid that updates smoothly at native browser refresh rates.
+
+![F1 Pit-Wall Overview](f1-pitwall-full-overview.png)
 
 ## Key Features
 * **2x2 Dynamic Tyre Matrix:** Independent, real-time temperature tracking for all four wheels, dynamically color-coding (Blue -> White -> Red) based on cold, optimal, and overheating operating thresholds.
