@@ -27,6 +27,10 @@ The goal was to mirror a professional Formula 1 pit-wall telemetry feed with zer
 * **Live Speed & Input Trace:** A rolling telemetry canvas tracking vehicle speed, throttle application, and braking inputs over a continuous time window.
 * **Session & Delta Tracking:** Real-time sector splits, lap history logs, and live delta comparisons against session benchmarks.
 
+| Dynamic 2x2 Tyre Matrix & Telemetry | Sector Splits & Live Deltas |
+| :---: | :---: |
+| ![Dynamic Tyre Matrix](tyre-telemetry-matrix.png) | ![Sector Splits and Deltas](sector-timing-deltas.png)
+
 ## AI Collaboration & Problem Solving
 The primary engineering hurdles involved debugging asynchronous data flows and unexpected schema behaviors. Here is how I orchestrated solutions:
 * **Resolving the F2 Compound Mismatch:** The dashboard initially failed to display F2 tire compounds correctly. By analyzing how different categories format their data, I recognized that F2 cars omit modern visual paint IDs in favor of raw chemical IDs. I directed the AI to write a robust fallback routing algorithm that dynamically maps F2 chemistry without breaking F1 visual tracking.
